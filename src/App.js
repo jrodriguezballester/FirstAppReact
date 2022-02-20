@@ -8,6 +8,7 @@ function App() {
         <div clasName="App">
             <Menu />
             <List />
+<Menu/>
         </div>
     );
 }
